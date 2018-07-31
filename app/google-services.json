@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "567551430368",
+    "firebase_url": "https://simpleauth-90a9a.firebaseio.com",
+    "project_id": "simpleauth-90a9a",
+    "storage_bucket": "simpleauth-90a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567551430368:android:b4848f41c41a341b",
+        "android_client_info": {
+          "package_name": "com.example.tomee.simpleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567551430368-piie6ho24jl1hrlj13bte6r4uaa6rfo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomee.simpleauth",
+            "certificate_hash": "9a6678b423bde942e1f3303016ccbac973f4ed41"
+          }
+        },
+        {
+          "client_id": "567551430368-b59d3mt0uj6ka1jsa7vqdvcktb6poqpf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "567551430368-b59d3mt0uj6ka1jsa7vqdvcktb6poqpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoL8KNT-wR7WinOZiGwrNQqaTiUVHwN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567551430368-b59d3mt0uj6ka1jsa7vqdvcktb6poqpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

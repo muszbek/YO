@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">YO</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password has to be at least 8 characters long</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="action_register">Register</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="yo">YO!</string>
+    <string name="user_pic_desc">User profile picture (with default)</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_sync">Sync</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search for users by name</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="add_friends_title">Add friends</string>
+    <string name="user_profile">View profile</string>
+    <string name="delete_friend">Delete friend</string>
+    <string name="profile_title">Profile</string>
+    <string name="username_label">Username:</string>
+    <string name="change_password">Change password</string>
+    <string name="edit_username">Edit username</string>
+    <string name="change_pic">Change picture</string>
+    <string name="current_password">Current password:</string>
+    <string name="new_password">New password:</string>
+    <string name="new_password_confirm">Confirm new password:</string>
+    <string name="show_password">Show password</string>
+    <string name="change">Change</string>
+    <string name="delete_user">Delete user</string>
+    <string name="pw_toast_updated">Password updated</string>
+    <string name="pw_toast_new_invalid">New password is invalid</string>
+    <string name="pw_toast_new_old_same">The new and old password has to be different</string>
+    <string name="pw_toast_new_confirm_different">The new password and the confirmation has to be the same</string>
+    <string name="pw_toast_reauthenticated">User re-authenticated.</string>
+    <string name="pw_toast_current_invalid">Current password invalid</string>
+    <string name="upload_message_success">New profile picture successfully uploaded</string>
+    <string name="upload_message_failure">Uploading picture failed</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="delete_user_confirm_message">Do you really want to delete your user?\nPlease enter your password</string>
+    <string name="user_deleted">User deleted</string>
+    <string name="last_interaction">Last interaction: </string>
+    <string name="by">by</string>
+    <string name="default_notification_channel_id">yoChannel</string>
+</resources>
